@@ -6,3 +6,5 @@ Rpart,
 SVM, 
 MSE, 
 LM
+
+Other Methods used: Permutation testing, Decision tree, Cross-validation, Z-test
